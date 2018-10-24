@@ -1,0 +1,5 @@
+name: 'Contact Form Preview Remover'
+type: module
+description: 'This is a small custom module which removes the "Review" button from Drupal contact forms'
+core: 8.x
+package: 'Custom'

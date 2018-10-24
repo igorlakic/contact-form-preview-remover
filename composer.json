@@ -1,0 +1,14 @@
+{
+  "name": "drupal/contact_form_preview_remover",
+  "type": "drupal-module",
+  "description": "This is a small custom module which removes the \"Review\" button from Drupal contact forms",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/contact_form_preview_remover",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/contact_form_preview_remover",
+    "source": "http://cgit.drupalcode.org/contact_form_preview_remover"
+  },
+  "require": { }
+}
